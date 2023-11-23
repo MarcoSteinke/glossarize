@@ -12,5 +12,5 @@ import glossarize, pathlib, os
 
 my_project_directory = pathlib.Path(os.getcwd())
 
-glossary = glosaarize(my_project_directory)
+glossary = glossarize(my_project_directory)
 ```
